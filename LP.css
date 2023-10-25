@@ -1,0 +1,185 @@
+.logo{
+    width:10px;
+    height:11px;
+}
+img{
+    width:300px;
+    height:100px;
+    margin-top: 10px;
+    background-color: antiquewhite;
+}
+header{
+    background-color:white;
+    height:123px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.LogoDiv2{
+    width:857px;
+    height:80px;
+    display:flex;
+    flex-direction: column;
+}
+.LogoDiv2>img{
+    width:150px;
+    height:50px;
+    margin-left:630px;
+}
+.LogoDiv2>p{
+    color:lightslategray;
+    margin-left:550px;
+    text-align:center;
+    padding-bottom: 20px;
+}
+.body1{
+    margin:0;
+    background-image: url("images/AI.jpg");
+    background-repeat: no-repeat;
+    background-size:1500px 780px;
+    height:800px;
+}
+.body2{
+    margin-top:100px;
+    background-color: black;
+    background-size: 1440PX 700PX;
+    height:1400px;
+}
+.MainText{
+   color:white;
+   display: flex;
+   font-weight:bold;
+   font-size: 30px;
+   margin-left:80px;
+   margin-bottom:100px;
+
+}
+.WelcomeText{
+    color:white;
+    text-align: center;
+    font-size: 30px;
+    margin-top:201px;
+}
+.ourOffer{
+    color:white;
+    font-size:30px;
+    margin-top: 1px;
+    padding-top: 120px;
+    margin-left: 80px;
+}
+.mainPicture{
+    width:950px;
+    height:900px;
+}
+.NavTitles{
+    font-weight: bold;
+    display:flex;
+    align-items:center;
+    justify-content:space-around;
+    width:500px;
+}
+.AIBotImg{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    width: 260px;
+    height:280px;
+    
+    margin-bottom:50px;
+}
+.AIBotImg>img{
+    width: 250px;
+    height:260px;
+    z-index:300;
+    margin-left: 50px;
+}
+.bgOrange{
+
+    background-color: crimson;
+    width: 220px;
+    height:220px;
+    margin-left:20px;
+    position: absolute;
+    z-index:100;
+    margin-top: 65px;
+}
+.barOrange1{
+    width:868px;
+    background-color: crimson;
+    height:10px;
+    margin-top:16px;
+}
+.barOrange{
+    width:868px;
+    background-color: crimson;
+    height:10px;
+    margin-top:16px;
+}
+.BarandAItext{
+    display:flex;
+    justify-content: space-between;
+
+}
+.AITECH{
+   font-weight: bolder;
+   font-size:26px;
+   margin-bottom:40px;
+  width:100px;
+   padding-right:30px;
+}
+.AITECH,.AiInfo{
+    color:white;
+    margin-left: 61px;
+    
+
+}
+.AiInfo{
+    margin-right:50px;
+
+}
+.AIandItsText{
+    display:flex;
+    justify-content: space-between;
+    position:relative;
+}
+.AiTechandInfo{
+    display:flex;
+    flex-direction: column;
+    margin-right: 30px;
+}
+.ImgVandBar{
+    width:800px;
+}
+.AiMore{
+    margin-top: 20px;
+    color: white;
+    font-weight: bold;
+    margin-right:30px;
+    
+}
+.MoreandButton{
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+
+    
+}
+button{
+    background-color:black;
+    border: 1px solid white;
+    border-radius: 40px;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:30px;
+    padding-right:30px;
+    color:white;
+    margin-left:550px;
+    margin-top:60px;
+    width:300px;
+}
+
+.AiInfo{
+    font-size: larger;
+}
+
